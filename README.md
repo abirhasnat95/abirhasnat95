@@ -1,2 +1,2 @@
-- 👋Welcome to @abirhasnat95
-- 👀I am here to learn and share what I have learned.
+- 👋 Welcome to @abirhasnat95
+- 👀 To learn and share what I have learned.
